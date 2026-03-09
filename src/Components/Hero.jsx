@@ -17,7 +17,7 @@ function Hero() {
                             designs with clean code.
                         </p>
                         <div className="flex justify-center">
-                            <a href='' download>
+                            <a href='/Joyel_Shaji_Resume.pdf' download>
                                 <button  data-aos='fade-up' data-aos-delay='1800'  className="inline-flex items-center text-white bg-orange-500 border-2 border-white py-3 px-8 rounded-full text-lg font-semibold tracking-wide transition-all duration-300 hover:bg-orange-400 hover:border-yellow-600 hover:shadow-[0_0_40px_rgb(255,165,0,0.7)]">
                                     Download CV
                                 </button>
